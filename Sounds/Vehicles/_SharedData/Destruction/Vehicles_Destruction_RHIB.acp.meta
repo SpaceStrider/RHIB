@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0EC933E2972C93C9}Sounds/Vehicles/_SharedData/Destruction/Vehicles_Destruction_RHIB.acp"
+ Configurations {
+  AudioProjectResourceClass PC {
+  }
+  AudioProjectResourceClass XBOX_ONE : PC {
+  }
+  AudioProjectResourceClass XBOX_SERIES : PC {
+  }
+  AudioProjectResourceClass PS4 : PC {
+  }
+  AudioProjectResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,36 @@
+MatPBRMulti {
+ Color 0.565 0.565 0.565 1
+ GlobalMCRMap "{1A1FAF45C59E139C}Assets/Vehicles/Naval/RHIB/data/RHIB_BCR.edds"
+ MaskMap "{071AF8392F2E008F}Assets/Vehicles/Naval/RHIB/data/MaskMap.edds"
+ GlobalNMOMap "{22C714D71CE94102}Assets/Vehicles/Naval/RHIB/data/RHIB_NMO.edds"
+ Enabled_4 1
+ Color_4 1 1 1 1
+ BCR_4 "{2172944850837F6A}Assets/_SharedData/Fabric/ST_Fabric_Rough02_BCR.edds"
+ NMO_4 "{B74DCF08266D73A1}Assets/_SharedData/Fabric/ST_Fabric_Rough02_N.edds"
+ UVTransform_4 MatUVTransform "{5ABE151DBCD39D61}" {
+  TilingU 29.3
+  TilingV 22.1
+ }
+ DetNormal_4 1.616
+ Enabled_3 1
+ Color_3 1 1 1 1
+ BCR_3 "{B141E00CC94C086A}Assets/_SharedData/Rubber/ST_Rubber_Aged01_1m_BCR.edds"
+ NMO_3 "{89995B9E103B5AF4}Assets/_SharedData/Rubber/ST_Rubber_Aged01_1m_NMO.edds"
+ UVTransform_3 MatUVTransform "{5ABE151E64586D65}" {
+  TilingU 20
+  TilingV 20
+ }
+ Enabled_2 1
+ BCR_2 "{21A155389C6BDF4C}Assets/_SharedData/Metal/ST_Metal_Floor_Diamond_BCR.edds"
+ NMO_2 "{37B9B0DFE4B7DEE9}Assets/_SharedData/Metal/ST_Metal_Floor_Diamond_N.edds"
+ UVTransform_2 MatUVTransform "{5ABE151E0DD15E16}" {
+  TilingU 30
+  TilingV 30
+ }
+ BCR_1 "{8EADB31D864DD0FC}Assets/_SharedData/Metal/ST_MetalBare_01_BCR.edds"
+ NMO_1 "{0470164F98BC8DD2}Assets/_SharedData/Metal/ST_MetalBare_01_NMO.edds"
+ UVTransform_1 MatUVTransform "{5A6ACB3661A443AD}" {
+  TilingU 10
+  TilingV 10
+ }
+}

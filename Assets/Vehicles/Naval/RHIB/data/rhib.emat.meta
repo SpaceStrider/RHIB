@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{83347202FB076D56}Assets/Vehicles/Naval/RHIB/data/rhib.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

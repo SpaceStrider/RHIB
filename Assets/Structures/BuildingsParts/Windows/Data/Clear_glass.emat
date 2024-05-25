@@ -1,0 +1,19 @@
+MatPBRBasicGlass {
+ ZWrite 0
+ Sort translucent
+ SurfaceProperties "{3DC7C8A918E3F4A5}Common/Materials/Game/glass.gamemat"
+ SpecularMul 0.025
+ WetnessScale 0
+ AlphaMul 0
+ BlendMode AlphaBlend
+ CrossFade 0
+ RoughnessScale 2.177
+ MetalnessScale 3
+ DielectricReflectance 0.05
+ BCRMap "{8B59275E8F260750}Assets/_SharedData/Glass/ST_Glass_Test_01_BCR.edds"
+ NormalPower 0.05
+ NMOMap "{5E9B5A9AF633BD94}Assets/_SharedData/Metal/ST_Steel_Battered_NMO.edds"
+ FrontFaceInterior 1
+ FresnelPower 3
+ FresnelBias 0.23
+}

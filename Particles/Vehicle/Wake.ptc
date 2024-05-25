@@ -1,0 +1,32 @@
+EffectDef {
+ MinFPS 10
+ Emitters {
+  EmitterDef Emitter_01 {
+   ConeAngle 180 0 0
+   MaxNum 1000
+   BirthRate 0.001
+   BirthRateVel 0.5
+   Offset 0 1 -3
+   Angles 90 0 0
+   Material "{1B106473E3E6E911}Particles/_Materials/Fluid/Water_Base_Splash_01.emat"
+   SizeMultiplier 40
+   BillboardingType None
+   AngularFadeOutStart 1
+   AngularFadeOutEnd 1
+   Velocity 0
+   ParentVelRelToAir 0
+   AnimFPS 0
+   RandomFrame 1
+   Lifetime 10
+   Color {
+    0.002 1 1 1
+   }
+   Alpha {
+    0 0 0.034 1 0.124 1 0.397 0.162 1 0
+   }
+   Size {
+    0 0.4 0.858 1 1 1
+   }
+  }
+ }
+}

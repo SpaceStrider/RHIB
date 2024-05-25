@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{027B9C0F38FC36F4}Assets/Weapons/HeavyWeapons/data/Mk19_BCR (1).edds"
+ NMOMap "{E18C450994AF2097}Assets/Weapons/HeavyWeapons/data/Mk19_NMO.edds"
+}

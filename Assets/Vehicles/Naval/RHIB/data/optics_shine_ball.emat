@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{1A1FAF45C59E139C}Assets/Vehicles/Naval/RHIB/data/RHIB_BCR.edds"
+ NMOMap "{22C714D71CE94102}Assets/Vehicles/Naval/RHIB/data/RHIB_NMO.edds"
+}

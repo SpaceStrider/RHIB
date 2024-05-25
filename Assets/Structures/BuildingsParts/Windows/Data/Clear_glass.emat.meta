@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{024A523AE07A52B7}Assets/Structures/BuildingsParts/Windows/Data/Clear_glass.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

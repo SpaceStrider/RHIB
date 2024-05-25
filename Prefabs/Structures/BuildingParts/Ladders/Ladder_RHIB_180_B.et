@@ -1,0 +1,40 @@
+GameEntity : "{4597EA9A4675EED1}Prefabs/Structures/Core/Ladder_Base.et" {
+ ID "50D6C55BB04A2F5B"
+ components {
+  LadderComponent "{588EECC514BB6DFC}" {
+   BottomFrontPositionInfo PointInfo "{5CDE3CDF1889872E}" {
+    Offset 0 -1.5796 0
+    Angles 0 0 0
+   }
+   TopFrontPositionInfo PointInfo "{5CDE3CDF18898728}" {
+    Offset 0 0.1305 0
+    Angles 0 0 0
+   }
+   TopVariant FromFloor
+  }
+  MeshObject "{50D6C55BB04A2F5C}" {
+   Object "{53F4B1A500FA8E38}Assets/Structures/BuildingsParts/Windows/Glass_100x42/Glass_01_100x42.xob"
+   Materials {
+    MaterialAssignClass "{5CDE3CDC245F5811}" {
+     SourceMaterial "Assets/Structures/BuildingsParts/Windows/Data/window_glass"
+     AssignedMaterial "{024A523AE07A52B7}Assets/Structures/BuildingsParts/Windows/Data/Clear_glass.emat"
+    }
+   }
+  }
+  ActionsManagerComponent "{5916A63C9331DAB0}" {
+   ActionContexts {
+    UserActionContext "{5916A63C9CED0D8A}" {
+     Position PointInfo "{5916A63CE468E545}" {
+      Offset 0 -0.5371 -0.0118
+      Angles 0 180 0
+     }
+    }
+    UserActionContext "{5916A63C9D2ABA4A}" {
+     Position PointInfo "{5916A63C9B51DDAE}" {
+      Offset 0 0.1939 -0.0019
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,6 @@
+MatPBRBasicGlass {
+ AlphaMul 0.338
+ BCRMap "{2E516B741FAB60A7}Assets/Vehicles/Naval/RHIB/data/rhib_glass_ca.edds"
+ OpacityMap "{2E516B741FAB60A7}Assets/Vehicles/Naval/RHIB/data/rhib_glass_ca.edds"
+ FresnelPower 3.789
+}

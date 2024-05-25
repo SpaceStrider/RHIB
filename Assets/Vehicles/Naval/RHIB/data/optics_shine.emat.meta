@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{89C5114B09C2B27B}Assets/Vehicles/Naval/RHIB/data/optics_shine.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
